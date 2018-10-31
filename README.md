@@ -1,2 +1,2 @@
-# GraphicsProject,
+# GraphicsProject
 Our Graphics Project
